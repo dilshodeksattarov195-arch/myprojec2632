@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userpncrypt",
+        "uuid": 4827088,
+        "checksum": "0gl4uk"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
